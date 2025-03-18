@@ -1,3 +1,3 @@
 This is an Exampler File 
-For Initalization of project 
+For Initalization of projects
 #lock in or Log out 
