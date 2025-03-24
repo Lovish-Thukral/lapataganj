@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+#files to ignore from python api
+/pyapi/Lib/
+pyapi/Scripts/
+pyapi/Include/
+pyapi/pyvenv.cfg
+__pycache__/
+pyapi/share
+*.pyc
+*.pyo
